@@ -1,0 +1,19 @@
+{
+  "name": "greetings",
+  "version": "1.0.0",
+  "description": "input a name , it returns wishes to you",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JAIRAM-CH/greetingsRepo.git"
+  },
+  "author": "JAIRAM CH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JAIRAM-CH/greetingsRepo/issues"
+  },
+  "homepage": "https://github.com/JAIRAM-CH/greetingsRepo#readme"
+}
