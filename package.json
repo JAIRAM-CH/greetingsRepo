@@ -1,5 +1,5 @@
 {
-  "name": "greetings",
+  "name": "sample-greet-package",
   "version": "1.0.0",
   "description": "input a name , it returns wishes to you",
   "main": "index.js",
